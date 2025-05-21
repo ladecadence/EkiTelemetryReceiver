@@ -1,6 +1,6 @@
 # EKI Telemetry Receiver
 
-Receiver code for the EKI LoRa-based telemetry and SSDV packets. Designed to run on ESP32+LoRa+OLED boards like the Heltec ones.
+Receiver code for the EKI LoRa-based telemetry and SSDV packets. Designed to run on ESP32+LoRa+OLED boards like the Heltec ones. (https://heltec.org/project/wifi-lora-32v2/)
 
 Works with the EkiTelemetry desktop software (using the USB serial port) and also creates a Bluetooth-Serial device to send the telemetry data.
 
